@@ -1,5 +1,5 @@
-# firefoxemulator
+# chromeemulator
 
 A python emulator in browser replit!
 
-https://firefox.allancoding.ga/
+https://chrome.allancoding.ga/
